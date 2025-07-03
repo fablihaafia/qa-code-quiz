@@ -47,9 +47,11 @@ npm run test:end-to-end
 ```
 ### E2E Output
 1.Login:
+
 ![Login_e2e](https://github.com/user-attachments/assets/6efcf4f1-c75d-48a0-8cdf-5d88cf0a7a7c)
 
 2.Profile:
+
 ![Profile_e2e](https://github.com/user-attachments/assets/eaacd1b7-08cf-4a5f-b1c1-e4f1bde3621b)
 
 ### For Interactive GUI mode run
