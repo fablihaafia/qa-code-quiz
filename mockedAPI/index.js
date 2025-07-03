@@ -79,6 +79,8 @@ app.put('/user', (req, res) => {
     fs.writeFileSync('./storage/account.json', JSON.stringify(data, 2, 4), 'utf-8', res.send("Account Updated"));
 })
 
+module.exports = app;
+
 http.createServer(app).listen(9999, () => {
     console.log("Application listening on PORT 9999");
 });

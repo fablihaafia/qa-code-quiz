@@ -11,7 +11,8 @@
     "removeComments": true,
     "sourceMap": true,
     "target": "ESNext",
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "baseUrl": "."
   },
   "include": ["./src/**/*"],
   "files": ["externals.d.ts"]
